@@ -1698,6 +1698,7 @@ var Chat = {
             chatis_owner: false,
         };
         let badge_to_role = {
+            "lead moderator": "lead_moderator",
             "moderator": "mod",
             "vip": "vip",
             "subscriber": "sub",
