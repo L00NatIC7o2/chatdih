@@ -2535,7 +2535,7 @@ var Chat = {
             if (typeof(message.tags.badges) === 'string') {
                 message.tags.badges.split(',').forEach(badge => {
                     badge = badge.split('/');
-                    if (badge[0] === "moderator" || badge[0] === "broadcaster") {
+                    if (badge[0] === "moderator" || badge[0] === "broadcaster" || badge[0] === "lead moderator") {
                         flag = true;
                         return;
                     }
