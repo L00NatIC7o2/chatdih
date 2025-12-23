@@ -1785,7 +1785,7 @@ var Chat = {
                 }
 
                 var badges = [];
-                const priorityBadges = ['predictions', 'admin', 'global_mod', 'staff', 'twitchbot', 'broadcaster', 'moderator', 'vip'];
+                const priorityBadges = ['predictions', 'admin', 'global_mod', 'staff', 'twitchbot', 'broadcaster', 'lead moderator', 'moderator', 'vip'];
                 if (typeof(info.badges) === 'string') {
                     info.badges.split(',').forEach(badge => {
                         badge = badge.split('/');
