@@ -1,6 +1,6 @@
 # [![](https://chatis.is2511.com/img/Peepo-64x64.png)](https://chatis.is2511.com) ChatIS [![GitHub version](https://img.shields.io/badge/release-v2.5.0-blue)](#) [![Website giambaj.it](https://img.shields.io/website-up-down-green-red/https/chatis.is2511.com.svg)](https://chatis.is2511.com/) [![GitHub license](https://img.shields.io/github/license/IS2511/jChat)](LICENSE)
 
-**ChatIS** is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit,
+**ChatDih** is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit,
 and any other streaming software that supports browser sources.
 It supports your [**BetterTTV**](https://betterttv.com/),
 [**FrankerFaceZ**](https://www.frankerfacez.com/) and
